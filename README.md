@@ -1,9 +1,9 @@
 <h1 align="center" color="beige">👋, I am Nikhil Tiwari</h1>
 
-- 🎓 Final year at JC Bose UST, YMCA.
-- 🔭 Currently trying hands on Javascript
-- 👯 Looking for Internship and projects to collaborate.
-- 💬 Ask me about Javascript, C++, Bitcoin and Algorithms.
+- 🎓 JC Bose UST, YMCA.
+- 🔭 Currently trying hands on Rust
+- 👯 Looking for collaborations on Trading Systems
+- 💬 Ask me about Python, C++, Bitcoin and Algorithms.
 
 
 ## 💻 Languages and Tools
