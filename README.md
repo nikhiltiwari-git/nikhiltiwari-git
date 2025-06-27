@@ -1,11 +1,11 @@
 <h1 align="center" color="beige">👋, I am Nikhil Tiwari</h1>
 
-- 🎓 JC Bose UST, YMCA.
-- 🔭 Currently trying hands on Rust
-- 👯 Looking for collaborations on Trading Systems
-- 💬 Ask me about Python, C++, Bitcoin and Algorithms.
+- 🔭 Quant; C++ and Bid/Ask
+- 🎓 [Vibe attended] JC Bose UST, YMCA
+- 👯 [Was] Looking for collaborations on Trading Systems
+- 💬 Ask me about Python, C++, Bitcoin and Algorithms [and i'll shit]
 
-
+[Bro these Icons are seriously Cringe AFAK]
 ## 💻 Languages and Tools
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -50,7 +50,5 @@
  ###### Feel Free to connect and explore together, Dm's always open 
 <a href="https://www.linkedin.com/in/tiwari-2/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="Username (1blackrock)">![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</a>
-<a href="https://www.instagram.com/tiwari__23/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-<a href="https://twitter.com/tiwari_15sw">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhiltiwari1903@gmail.com)
 
