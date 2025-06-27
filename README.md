@@ -1,6 +1,6 @@
 <h1 align="center" color="beige">👋, I am Nikhil Tiwari</h1>
 
-- 🔭 [OverFit] Quant; C++ and Bid/Ask
+- 🔭 [OverFit on HistData] Quant; C++ and Bid/Ask
 - 🎓 [{I thought, i} Vibed] JC Bose UST, YMCA
 - 👯 [Was] Looking for collaborations on Trading Systems
 - 💬 Ask me about Python, C++, Bitcoin and Algorithms [and i'll GasLight]
