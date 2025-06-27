@@ -1,12 +1,14 @@
 <h1 align="center" color="beige">👋, I am Nikhil Tiwari</h1>
 
 - 🔭 Quant; C++ and Bid/Ask
-- 🎓 [Vibe attended] JC Bose UST, YMCA
+- 🎓 [Vibed] JC Bose UST, YMCA
 - 👯 [Was] Looking for collaborations on Trading Systems
-- 💬 Ask me about Python, C++, Bitcoin and Algorithms [and i'll shit]
+- 💬 Ask me about Python, C++, Bitcoin and Algorithms [and i'll gasLight]
 
-[Bro these Icons are seriously Cringe AFAK]
+
 ## 💻 Languages and Tools
+[Bro these Icons are seriously Cringe AFAK]
+
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -34,8 +36,6 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 ## 📊 Stats
-[![Count](https://visitcount.itsvg.in/api?id=nikhiltiwari-git&label=Profile%20Views&color=1&icon=3&pretty=true)](https://visitcount.itsvg.in)
-
 ![stat](https://github-readme-stats.vercel.app/api?username=nikhiltiwari-git&show_icons=true&rank_icon=github&theme=dracula) 
 
 
